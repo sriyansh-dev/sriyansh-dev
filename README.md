@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sriyanshraj2005@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sriyanshraj007)  [![X](https://img.shields.io/badge/X-%23121011.svg?logo=x&logoColor=white)](https://twitter.com/sriyanshraj007) [![LeetCode](https://img.shields.io/badge/LeetCode-%2300CC66.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/sriyanshraj_007/)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sriyanshraj_007)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sriyanshraj085@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sriyanshraj007)  [![X](https://img.shields.io/badge/X-%23121011.svg?logo=x&logoColor=white)](https://twitter.com/sriyanshraj007) [![LeetCode](https://img.shields.io/badge/LeetCode-%2300CC66.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/sriyanshraj_007/)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sriyanshraj_007)
 
 
 
