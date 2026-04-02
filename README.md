@@ -1,5 +1,5 @@
 💫 About Me:
-<br><br>🤝 Open to collaborate on:  <br>Student-focused tools, open-source beginner projects, or anything cool that helps others learn 🎓<br><br>🧠 Always curious about:  <br>- Android development  <br>- Backend integration (Firebase, APIs)  <br>- DSA & core CS subjects like OS and DBMS<br><br>🌱 Currently exploring:  <br>Java, Firebase, Git, and leveling up my problem-solving skills on platforms like LeetCode<br><br>💬 Ask me about:  <br>How to start with app dev as a student, GitHub portfolio tips, or building mini projects that matter<br><br>⚡ Fun fact:  <br>I learn faster when explaining things to friends—tech becomes 10x more fun that way! 😄<br>
+<br><br>🤝 Open to collaborate on:  <br>Student-focused tools, open-source beginner projects, or anything cool that helps others learn 🎓<br><br>🧠 Always curious about:  <br>- DSA & core CS subjects like OS and DBMS<br><br>🌱 Currently exploring:  <br>Java, Firebase, Git, and leveling up my problem-solving skills on platforms like LeetCode<br><br>💬 Ask me about:  <br>How to start with app dev as a student, GitHub portfolio tips, or building mini projects that matter<br><br>⚡ Fun fact:  <br>I learn faster when explaining things to friends—tech becomes 10x more fun that way! 😄<br>
 
 
 ## 🌐 Socials:
