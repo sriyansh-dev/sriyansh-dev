@@ -2,6 +2,28 @@
 
 
 
+## ABOUT ME
+
+```typescript
+const sriyansh = {
+    location: "Greater Noida, UP, India 🇮🇳",
+    education: "B.Tech CSE - 4th Year @ DR APJ Abdul kalam university | CGPA: 8.2",
+    role: "JAVA Full Stack Developer | AI/ML ENGINEER",
+    currentFocus: ["DSA", "System Design", "Java Backend", "GenAI / RAG"],
+    stack: ["Java","Python","AWS","DOCKER","SQL",RAG PIPELINES, "LangChain"],
+    passion: ["Building end-to-end systems", "Solving hard DSA problems", "Calisthenics"],
+    openTo: ["Internships", "Full Stack Roles", "AI/ML AUTOMATION", "open-source projects"]
+};
+```
+
+- 🤝 **Open to collaborate on:** Student-focused tools, open-source beginner projects, or anything that helps others learn
+- 🧠 **Always curious about:** DSA , RAG , SYSTEM DESIGNS
+- 🌱 **Currently exploring:** Java, Firebase, Git, and leveling up problem-solving on LeetCode
+
+<br clear="right"/>
+
+---
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)](https://linkedin.com/in/sriyanshraj007)
@@ -13,34 +35,9 @@
 <img src="https://komarev.com/ghpvc/?username=sriyansh-dev&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 
 </div>
-
 ---
 
-## 🎯 About Me
-
-```typescript
-const sriyansh = {
-    location: "Greater Noida, UP, India 🇮🇳",
-    education: "B.Tech CSE - 3rd Year @ Vishveshwarya Group of Institutions (AKTU) | CGPA: 8.2",
-    role: "Full Stack Developer | AI/ML Enthusiast",
-    currentFocus: ["DSA", "System Design", "Java Backend", "GenAI / RAG"],
-    stack: ["Python", "Django", "Java", "TypeScript", "LangChain"],
-    passion: ["Building end-to-end systems", "Solving hard DSA problems", "Calisthenics"],
-    funFact: "Runs Arch Linux (CachyOS) because stability is a lifestyle choice — also learns faster by explaining things to friends",
-    openTo: ["Internships", "Full Stack Roles", "AI/ML Collaborations", "Student-focused open-source projects"]
-};
-```
-
-- 🤝 **Open to collaborate on:** Student-focused tools, open-source beginner projects, or anything that helps others learn
-- 🧠 **Always curious about:** DSA and core CS subjects like OS and DBMS
-- 🌱 **Currently exploring:** Java, Firebase, Git, and leveling up problem-solving on LeetCode
-- 💬 **Ask me about:** Getting started with app dev as a student, GitHub portfolio tips, building mini projects that matter
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
 <div align="center">
 
@@ -187,8 +184,6 @@ Always open to internships, full stack roles, and AI/ML collaborations. Reach ou
 ---
 
 <div align="center">
-
-**Built with Python, Django, and a lot of debugging by Sriyansh Raj**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
