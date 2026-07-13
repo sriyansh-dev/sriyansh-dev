@@ -1,7 +1,4 @@
 <div align="center">
-
-
-
 ## ABOUT ME
 
 ```typescript
