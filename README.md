@@ -4,7 +4,6 @@
 
 ```typescript
 const sriyansh = {
-    location: "Greater Noida, UP, India 🇮🇳",
     education: "B.Tech CSE - 4th Year @ DR APJ Abdul kalam university | CGPA: 8.2",
     role: "JAVA Full Stack Developer | AI/ML ENGINEER",
     currentFocus: ["DSA", "System Design", "Java Backend", "GenAI / RAG"],
@@ -14,9 +13,9 @@ const sriyansh = {
 };
 ```
 
-- 🤝 **Open to collaborate on:** Student-focused tools, open-source beginner projects, or anything that helps others learn
-- 🧠 **Always curious about:** DSA , RAG , SYSTEM DESIGNS
-- 🌱 **Currently exploring:** Java, Firebase, Git, and leveling up problem-solving on LeetCode
+-  **Open to collaborate on:** Student-focused tools, open-source beginner projects, or anything that helps others learn
+-  **Always curious about:** DSA , RAG , SYSTEM DESIGNS
+-  **Currently exploring:** Java, Firebase, Git, and leveling up problem-solving on LeetCode
 
 <br clear="right"/>
 
@@ -69,22 +68,22 @@ const sriyansh = {
 
 ---
 
-## 💼 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🔎 **AI Fact-Checking Browser Extension** | Captures web content and verifies claims via a RAG pipeline | JS, Python, Django, LangChain, Chroma |
-| 📋 **AI Grievance Redressal System** | Web + Android app with server-side routing and structured APIs | TypeScript, Python, Android |
-| 📄 **NLP-based Resume Parser** | End-to-end pipeline: ingestion → NLP extraction → structured API output | Python, Django, Scikit-learn, Pandas |
-| 🎨 **GAN Image Colorization App** | Trained a GAN model, deployed via an interactive Streamlit UI | Python, TensorFlow, PyTorch, Streamlit |
+|  **AI Fact-Checking Browser Extension** | Captures web content and verifies claims via a RAG pipeline | JS, Python, Django, LangChain, Chroma |
+|  **AI Grievance Redressal System** | Web + Android app with server-side routing and structured APIs | TypeScript, Python, Android |
+|  **NLP-based Resume Parser** | End-to-end pipeline: ingestion → NLP extraction → structured API output | Python, Django, Scikit-learn, Pandas |
+|  **GAN Image Colorization App** | Trained a GAN model, deployed via an interactive Streamlit UI | Python, TensorFlow, PyTorch, Streamlit |
 
 </div>
 
 ---
 
-## 🌱 Open Source Contributions
+##  Open Source Contributions
 
 - **ATS-Checker** — Resume ATS scoring tool
 - **PyGitLoc** — GitHub lines-of-code counter
@@ -93,26 +92,26 @@ const sriyansh = {
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 <table>
 <tr>
 <td width="50%">
 
-- ✅ HackerRank Python Certification
-- ✅ Intro to NLP — Analytics Vidhya
-- ✅ Data Analytics Job Simulation — Deloitte (Forage)
-- ✅ Intro to Generative AI — Google Cloud
-- ✅ Intro to Large Language Models — Google Cloud
+-  HackerRank Python Certification
+-  Intro to NLP — Analytics Vidhya
+-  Data Analytics Job Simulation — Deloitte (Forage)
+-  Intro to Generative AI — Google Cloud
+-  Intro to Large Language Models — Google Cloud
 
 </td>
 <td width="50%">
 
-- ✅ Intro to Responsible AI — Google Cloud
-- ✅ Big Data & Data Science Bootcamp — C-DAC Noida
-- ✅ Advanced C++ (85%) — IIT Bombay Spoken Tutorial
-- ✅ Python Mega Course (10 Apps) — Udemy
-- ✅ Python & Django for Beginners — Udemy
+-  Intro to Responsible AI — Google Cloud
+-  Big Data & Data Science Bootcamp — C-DAC Noida
+-  Advanced C++ (85%) — IIT Bombay Spoken Tutorial
+-  Python Mega Course (10 Apps) — Udemy
+-  Python & Django for Beginners — Udemy
 
 </td>
 </tr>
@@ -124,17 +123,15 @@ const sriyansh = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sriyansh-dev&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sriyansh-dev&theme=radical&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriyansh-dev&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sriyansh-dev&theme=react-dark&hide_border=true&area=true" />
 
 </div>
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 ```mermaid
 mindmap
