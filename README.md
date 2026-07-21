@@ -123,9 +123,11 @@ const sriyansh = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sriyansh-dev&theme=radical&hide_border=true" />
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=sriyansh-dev&theme=radical&hide_border=true" />
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sriyansh-dev&theme=react-dark&hide_border=true&area=true" />
+
+
+<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=sriyansh-dev&theme=react-dark&hide_border=true&area=true" />
 
 </div>
 
