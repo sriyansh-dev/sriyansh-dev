@@ -4,7 +4,7 @@
 
 ```typescript
 const sriyansh = {
-    education: "B.Tech CSE - 4th Year @ DR APJ Abdul kalam university | CGPA: 8.2",
+    education: "B.Tech CSE - 4th Year @ DR APJ Abdul kalam technical university | CGPA: 8.2",
     role: "JAVA Full Stack Developer | AI/ML ENGINEER",
     currentFocus: ["DSA", "System Design", "Java Backend", "GenAI / RAG"],
     stack: ["Java","Python","AWS","DOCKER","SQL",RAG PIPELINES, "LangChain"],
