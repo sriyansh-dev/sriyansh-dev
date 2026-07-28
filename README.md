@@ -1,5 +1,8 @@
 <div align="center">
     
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&size=45&duration=3500&pause=900&width=1000&height=75&lines=Hi+%2C+Myself+SRIYANSH+RAJ👋;an+open+source+contributor🔥;open+for+collaboration😁)](https://git.io/typing-svg)
+    
+    
 ## ABOUT ME
 
 ```typescript
