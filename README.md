@@ -23,8 +23,6 @@ const sriyansh = {
 <br clear="right"/>
 
 
-![SRIYANSH's GitHub stats](https://github-readme-stats.vercel.app/api?username=sriyansh-dev&show_icons=true&theme=radical)
-
 ---
 
 <div align="center">
