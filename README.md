@@ -195,7 +195,7 @@ const sriyansh = {
 <hr>
 
 <div align="center">
-  <img height="20" src="https://komarev.com/ghpvc/?username=sriyansh-dev&color=blue&style=flat" alt="Profile Views" /> <a href="https://buymeacoffee.com/ranitmanik"><img height="20" alt="Buy Me a Coffee" src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee" /></a>
+  <img height="20" src="https://komarev.com/ghpvc/?username=sriyansh-dev&color=blue&style=flat" alt="Profile Views" /> <a href=" BUY ME COFFEE "><img height="20" alt="Buy Me a Coffee" src="https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee" /></a>
 </div>
 
 ---
