@@ -34,7 +34,8 @@ const sriyansh = {
     passion: ["Building end-to-end systems", "Solving hard DSA problems", "Calisthenics"],
     superpower: "Architectural efficiency & clean API contracts",
     motto: "No fluff, no filler text, and no bloated code.",
-    openTo: ["Internships", "Full Stack Roles", "AI/ML Automation", "Open-source projects"]
+    openTo: ["Internships", "Full Stack Roles", "AI/ML Automation", "Open-source projects"],
+    mail: sriyanshraj085@gmail.com,
 };
 ```
 
