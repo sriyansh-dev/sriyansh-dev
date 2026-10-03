@@ -65,11 +65,11 @@ const sriyansh = {
 <td width="50%">
 
 ###  Premium Certifications
-- ✅ Certified LLM Security Professional
-- ✅ Google AI Essentials & Intro to Generative AI
-- ✅ Data Analytics Job Simulation (Deloitte / Forage)
-- ✅ Big Data & Data Science Bootcamp (C-DAC Noida)
-- ✅ Advanced C++ Training (85%) - IIT Bombay
+-  Certified LLM Security Professional
+-  Google AI Essentials & Intro to Generative AI
+-  Data Analytics Job Simulation (Deloitte / Forage)
+-  Big Data & Data Science Bootcamp (C-DAC Noida)
+-  Advanced C++ Training (85%) - IIT Bombay
 
 </td>
 </tr>
@@ -254,13 +254,6 @@ If you want to talk system layout, LLM orchestration, or DevOps automation, cut 
 [![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriyanshraj085@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sriyansh-dev)
 
-###  Open For
-
--  Full-Stack Architecture Roles
--  Generative AI & NLP Integrations
--  Scalable Backend & System Optimization
--  Student-focused tools & Open Source
--  Internship Opportunities
 
 </div>
 
