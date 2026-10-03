@@ -224,7 +224,7 @@ const sriyansh = {
 
 ```mermaid
 mindmap
-  root((Sriyansh's Journey))
+  root((Sriyansh))
     Learning
       Data Structures & Algorithms
       System Design
