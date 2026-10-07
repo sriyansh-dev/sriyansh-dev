@@ -16,7 +16,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)](https://linkedin.com/in/sriyanshraj)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:sriyanshraj085@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/sriyansh-dev)
+[![Codolio](https://img.shields.io/badge/Codolio-Profile-FF6F00?style=for-the-badge&logoColor=white&labelColor=black)](https://codolio.com/profile/sriyansh_dev)
 
 
 </div>
