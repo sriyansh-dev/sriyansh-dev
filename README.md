@@ -1,46 +1,45 @@
 <div align="center">
 
 <!-- ========================================================================================= -->
-<!-- CYBERNETIC ARCH LINUX HUD HEADER                                                          -->
+<!-- 1. ARCH LINUX OLED HEADER & TERMINAL BOOT SEQUENCE (100% VERIFIED URL PARAMETERS)         -->
 <!-- ========================================================================================= -->
 <a href="https://sriyansh.vercel.app">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:05080d,45:0d1117,100:1793d1&height=205&section=header&text=SRIYANSH.DEV&fontSize=58&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=%E2%94%8F%E2%94%81%5B%20ARCH%20LINUX%20x86_64%20%E2%80%A2%20AGENTIC%20AI%20%26%20LOW-LATENCY%20BACKEND%20SYSTEMS%20%5D%E2%94%81%E2%94%93&descSize=14&descAlign=50&descAlignY=66&animation=fadeIn&stroke=00e676&strokeWidth=1" width="100%" alt="Arch Header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0d1117&height=190&section=header&text=sriyansh.dev&fontSize=56&fontColor=1793d1&fontAlignY=38&desc=ARCH%20LINUX%20x86_64%20%E2%80%A2%20AGENTIC%20AI%20%26%20LOW-LATENCY%20BACKEND%20SYSTEMS&descSize=14&descColor=00e676&descAlignY=65&animation=fadeIn&stroke=1793d1&strokeWidth=1" width="100%" alt="sriyansh.dev" />
 </a>
 
-<!-- LIVE MULTIPLEXED TTY1 BOOT SEQUENCE -->
 <a href="https://sriyansh.vercel.app/?view=know-me">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=15&duration=2200&pause=600&color=00E676&background=0D111700&center=true&vCenter=true&width=900&lines=%5B+0.000142%5D+BOOTING+ARCH+HYPERVISOR+%E2%80%94+TTY1+SESSION+ESTABLISHED+%5BOK%5D;%5B+0.004819%5D+MOUNTING+S.A.G.E.+CUSTOM+MCP+SERVER+%26+AST+SECURITY+ENGINE...;%5B+0.009204%5D+INITIALIZING+VAULT+%26+BITSWARM+TWO-STAGE+RAG+VECTOR+MESH...;%5B+0.012890%5D+SPAWNING+GROQ+LPU+SHELL+DAEMON%3A+ssh+root%40sriyansh.vercel.app;%5B+0.015000%5D+POLICY+ENFORCED%3A+NO+FLUFF.+NO+FILLER+TEXT.+NO+BLOATED+CODE." alt="Boot Sequence" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=2200&pause=600&color=00E676&center=true&vCenter=true&width=820&lines=arch%40sriyansh%3A~%24+ssh+root%40sriyansh.vercel.app+--init;Mounting+S.A.G.E.+Custom+MCP+Server+%26+AST+Security+Engine...;Initializing+Vault+%26+BitSwarm+Two-Stage+Hybrid+RAG+Mesh...;Spawning+Interactive+Groq+LPU+Shell%3A+know-me.sh+%5BONLINE%5D;Policy%3A+No+Fluff.+No+Filler+Text.+No+Bloated+Code." alt="Terminal Boot" />
 </a>
 
 <br/>
 
-<!-- HARDWARE TACTILE TTY MULTIPLEXER BAR -->
-<kbd><a href="https://sriyansh.vercel.app">⚡ <b>tty1: Live Terminal OS</b></a></kbd> · 
-<kbd><a href="https://sriyansh.vercel.app/?view=know-me">🐚 <b>tty2: AI Shell (know-me.sh)</b></a></kbd> · 
-<kbd><a href="https://sriyansh.vercel.app/?view=plan">🧠 <b>tty3: System Mindmap</b></a></kbd> · 
-<kbd><a href="https://sriyansh.vercel.app/?post=this-counts">🏙️ <b>tty4: 3D Isometric Cities</b></a></kbd> · 
-<kbd><a href="https://sriyansh.vercel.app/?post=the-scoreboard">📊 <b>tty5: The Scoreboard</b></a></kbd>
+<!-- HARDWARE TTY MULTIPLEXER BAR -->
+<kbd><a href="https://sriyansh.vercel.app">⚡ <b>tty1 :: Live Terminal OS</b></a></kbd> · 
+<kbd><a href="https://sriyansh.vercel.app/?view=know-me">🐚 <b>tty2 :: AI Shell (know-me.sh)</b></a></kbd> · 
+<kbd><a href="https://sriyansh.vercel.app/?view=plan">🧠 <b>tty3 :: System Mindmap</b></a></kbd> · 
+<kbd><a href="https://sriyansh.vercel.app/?post=this-counts">🏙️ <b>tty4 :: 3D Isometric Cities</b></a></kbd> · 
+<kbd><a href="https://sriyansh.vercel.app/?post=the-scoreboard">📊 <b>tty5 :: The Scoreboard</b></a></kbd>
 
 <br/><br/>
 
-<!-- COMMAND BADGES -->
-<a href="https://sriyansh.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-sriyansh.vercel.app-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=080b10" /></a>
-<a href="https://sriyansh.vercel.app/?view=know-me"><img src="https://img.shields.io/badge/AI_DAEMON-know--me.sh-00E676?style=for-the-badge&logo=gnubash&logoColor=black&labelColor=080b10" /></a>
-<a href="https://linkedin.com/in/sriyanshraj"><img src="https://img.shields.io/badge/LINKEDIN-SRIYANSH_RAJ-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080b10" /></a>
-<a href="https://leetcode.com/u/sriyansh-dev/"><img src="https://img.shields.io/badge/LEETCODE-sriyansh--dev-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=080b10" /></a>
-<a href="https://codolio.com/profile/sriyansh_dev"><img src="https://img.shields.io/badge/CODOLIO-SCOREBOARD-FF6F00?style=for-the-badge&logo=target&logoColor=white&labelColor=080b10" /></a>
-<img src="https://komarev.com/ghpvc/?username=sriyansh-dev&color=1793d1&style=for-the-badge&label=PACKETS+RX" />
+<!-- DARK-OLED COMMAND BADGES -->
+<a href="https://sriyansh.vercel.app"><img src="https://img.shields.io/badge/LIVE_OS-sriyansh.vercel.app-1793D1?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=0d1117" alt="Portfolio" /></a>
+<a href="https://sriyansh.vercel.app/?view=know-me"><img src="https://img.shields.io/badge/AI_SHELL-know--me.sh-00E676?style=for-the-badge&logo=gnubash&logoColor=black&labelColor=0d1117" alt="know-me.sh" /></a>
+<a href="https://linkedin.com/in/sriyanshraj"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/sriyansh-dev/"><img src="https://img.shields.io/badge/LEETCODE-SOLVE-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0d1117" alt="LeetCode" /></a>
+<a href="https://codolio.com/profile/sriyansh_dev"><img src="https://img.shields.io/badge/CODOLIO-PROFILE-FF6F00?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Codolio" /></a>
+<img src="https://komarev.com/ghpvc/?username=sriyansh-dev&color=1793d1&style=for-the-badge&label=PACKETS+RX" alt="Views" />
 
 </div>
 
 <br/>
 
 > [!IMPORTANT]
-> **INTERACTIVE AI SHELL ONLINE (`know-me.sh`)** — Skip static resumes. Query my live first-person Groq-powered AI agent directly in the browser at **[sriyansh.vercel.app/?view=know-me](https://sriyansh.vercel.app/?view=know-me)** or inspect my 3D isometric contribution telemetry at **[sriyansh.vercel.app/?post=this-counts](https://sriyansh.vercel.app/?post=this-counts)**.
+> **INTERACTIVE AI SHELL ONLINE (`know-me.sh`)** — Skip static resumes. Query my live first-person Groq-powered AI agent directly in your browser at **[sriyansh.vercel.app/?view=know-me](https://sriyansh.vercel.app/?view=know-me)** or explore my live 3D isometric contribution telemetry at **[sriyansh.vercel.app/?post=this-counts](https://sriyansh.vercel.app/?post=this-counts)**.
 
 ---
 
-### `┏━( arch@sriyansh : ~/hypervisor )━[ tmux attach -t 0 ]`
+## `┏━( arch@sriyansh : ~/hypervisor )━[ tmux attach -t 0 ]`
 
 <table width="100%">
 <tr>
@@ -48,20 +47,20 @@
 
 ```yaml
 # ╭─ 01: /etc/sriyansh.conf (fastfetch) ─────────╮
-host: "sriyansh.vercel.app"
+host: "[https://sriyansh.vercel.app](https://sriyansh.vercel.app)"
 os: "Arch Linux x86_64 (tty1)"
 kernel: "6.12.0-arch1-performance"
-role: "Generative AI & Backend Systems Engineer"
+role: "Generative AI & Low-Latency Backend Engineer"
 shell: "know-me.sh (Groq LPU Conversational Agent)"
 uptime: "3x AI/ML Engineering Internships Shipped"
 
 architecture_focus:
   - "Autonomous Agentic Workflows & Custom MCP"
-  - "Two-Stage Hybrid RAG (Dense + Sparse Vectors)"
-  - "Low-Latency Distributed REST & WebSockets"
+  - "Two-Stage Hybrid RAG (FAISS + ChromaDB)"
+  - "Low-Latency Spring Boot & Django Backends"
 
 engineering_doctrine:
-  superpower: "Sub-100ms APIs & clean contracts"
+  superpower: "Architectural efficiency & clean APIs"
   motto: "No fluff, no filler text, no bloated code."
   status: "[ONLINE] Open to High-Impact Roles"
 ```
@@ -78,11 +77,12 @@ engineering_doctrine:
 + VECTOR DB (FAISS/CHROMA) [█████████████████░░░] 90%
 + ALGORITHMS & SYS DESIGN  [█████████████████░░░] 89%
 
-! ACTIVE SYSTEM DAEMONS (systemctl --type=service)
-+ [PID 1042] sage-mcp-server.d     :: AST Security
-+ [PID 1088] vault-bitswarm-rag.d  :: 2-Stage RAG
-+ [PID 1104] know-me-groq-shell.d  :: LPU Agent CLI
-+ [PID 1156] fact-check-engine.d   :: DOM Verifier
+! ACTIVE PRODUCTION DAEMONS (systemctl status)
++ [PID 1042] S.A.G.E.          :: Custom MCP & AST
++ [PID 1088] Vault & BitSwarm  :: 2-Stage Hybrid RAG
++ [PID 1104] know-me.sh        :: Groq LPU Shell CLI
++ [PID 1156] Fact-Check-Engine :: Live DOM Verifier
++ [PID 1204] PyGitLoc / ATS    :: Open-Source Tools
 ```
 
 </td>
@@ -91,203 +91,229 @@ engineering_doctrine:
 
 ---
 
-### `┏━( arch@sriyansh : ~/architecture )━[ ./render-neural-topology.sh ]`
+## `┏━( arch@sriyansh : ~/interactive-console )━[ ./execute-module.sh ]`
+> 💡 **CLICK TO EXECUTE:** Expand any terminal module below to inspect live sequence diagrams, system topologies, or run the interactive recruiter decision tree.
+
+<details open>
+<summary><b>🔴 <code>[EXEC 01] $ ./inspect-daemon.sh --target="S.A.G.E. (Agentic Code Review Engine)"</code></b></summary>
+<br/>
+
+> **System Spec:** Open-source agentic code-review engine powered by a custom **Model Context Protocol (MCP)** server, Gemini LLMs, and RAG pipelines. Parses repository Abstract Syntax Trees (AST), detects security flaws, and synthesizes deterministic optimization diffs.
 
 ```mermaid
-flowchart TB
-    classDef kernel fill:#080b10,stroke:#1793d1,stroke-width:2px,color:#1793d1,font-weight:bold;
-    classDef agent fill:#0d1117,stroke:#00e676,stroke-width:2px,color:#e6edf3;
-    classDef infra fill:#0d1117,stroke:#a855f7,stroke-width:2px,color:#e6edf3;
-    classDef storage fill:#0d1117,stroke:#ffa116,stroke-width:2px,color:#e6edf3;
+sequenceDiagram
+    autonumber
+    actor Dev as Developer / PR
+    participant MCP as S.A.G.E. Custom MCP Server
+    participant AST as Static AST & Vuln Scanner
+    participant RAG as Vector Context (RAG)
+    participant LLM as Gemini Reasoning Engine
 
-    subgraph CLIENT ["╭─ TTY1 CLIENT LAYER : sriyansh.vercel.app ─╮"]
-        UI["OLED Space Canvas & 3D Isometric Telemetry"]:::kernel
-        SH["know-me.sh Interactive Terminal"]:::kernel
-    end
-
-    subgraph AGENT ["╭─ AGENTIC AI & ORCHESTRATION LAYER ─╮"]
-        MCP["S.A.G.E. Custom MCP Server (Static AST + Vuln Patch)"]:::agent
-        ROUTER["Dynamic Model Router (Groq LPU ⚡ / Gemini Pro)"]:::agent
-        RAG["Vault & BitSwarm Two-Stage Hybrid RAG"]:::agent
-    end
-
-    subgraph BACKEND ["╭─ LOW-LATENCY BACKEND & DATA MESH ─╮"]
-        API["Spring Boot / Django / FastAPI Contracts"]:::infra
-        STREAM["Redis Pub/Sub & WebSockets"]:::infra
-        VEC[("FAISS & Chroma Vector Stores")]:::storage
-        SQL[("PostgreSQL / MySQL")]:::storage
-    end
-
-    UI --> API
-    SH --> ROUTER
-    ROUTER --> MCP
-    ROUTER --> RAG
-    RAG --> VEC
-    MCP --> API
-    API --> STREAM
-    API --> SQL
+    Dev->>MCP: Push Commit / Trigger Review
+    MCP->>AST: Parse AST & Control Flow Graph
+    AST-->>MCP: Flag Security Flaws & Anti-Patterns
+    MCP->>RAG: Retrieve Repo Conventions & CVEs
+    RAG-->>LLM: Inject Grounded Code Context
+    LLM-->>Dev: Output Deterministic Optimization Patch
 ```
-
----
-
-### `┏━( arch@sriyansh : ~/flagship-daemons )━[ ls -lha --interactive ]`
-> 💡 **Click any daemon module below** to inspect its execution pipeline, protocol design, and live deployment links.
-
-<details open>
-<summary><b>🔴 <kbd>PID:1042</kbd> S.A.G.E. — Open-Source Agentic Code Review Engine (Custom MCP Server)</b></summary>
-<br/>
-
-```yaml
-daemon: "sage-code-reviewer.service"
-protocol: "Custom Model Context Protocol (MCP) Server"
-engine: "Google Gemini + Hybrid RAG AST Vulnerability Scanner"
-repository: "[https://github.com/sriyansh-dev/S.A.G.E](https://github.com/sriyansh-dev/S.A.G.E)"
-```
-- **Architecture:** Autonomous code-review engine that parses repository Abstract Syntax Trees (AST), detects security flaws and performance bottlenecks, and synthesizes deterministic optimization diffs.
-- **Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MCP](https://img.shields.io/badge/MCP_Server-1793D1?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini_LLM-8E75B2?style=flat-square) ![RAG](https://img.shields.io/badge/RAG_Pipeline-00E676?style=flat-square) ![MERN](https://img.shields.io/badge/MERN-080b10?style=flat-square)
-
-</details>
-
-<details open>
-<summary><b>🟣 <kbd>PID:1088</kbd> Vault & BitSwarm RAG — Autonomous Multi-Stage Knowledge Engine</b></summary>
-<br/>
-
-```yaml
-daemon: "vault-bitswarm-rag.service"
-protocol: "Two-Stage Retrieval-Augmented Generation (Dense + Sparse)"
-routing: "Dynamic Latency-Aware LLM Router (Groq LPU / Gemini)"
-deployment: "[https://sriyansh.vercel.app](https://sriyansh.vercel.app)"
-```
-- **Architecture:** High-throughput autonomous agent featuring two-stage hybrid vector search (FAISS + ChromaDB), cross-encoder reranking, and dynamic model routing to eliminate hallucinations at sub-second speed.
-- **Tech Stack:** ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-00599C?style=flat-square) ![ChromaDB](https://img.shields.io/badge/ChromaDB-6E56CF?style=flat-square) ![Groq](https://img.shields.io/badge/Groq_LPU-F55036?style=flat-square)
-
-</details>
-
-<details open>
-<summary><b>🟢 <kbd>PID:1104</kbd> Arch Linux OLED Terminal OS & <code>know-me.sh</code> Interactive AI Shell</b></summary>
-<br/>
-
-```yaml
-daemon: "arch-portfolio-shell.service"
-interface: "Zero-Framework OLED Space Canvas + Interactive CLI"
-telemetry: "3D Isometric Contribution Cities (GitHub / LeetCode / Codolio)"
-live_shell: "[https://sriyansh.vercel.app/?view=know-me](https://sriyansh.vercel.app/?view=know-me)"
-```
-- **Architecture:** Bespoke Arch Linux terminal workspace in the browser featuring a live first-person Groq AI shell (`know-me.sh`), 3D isometric contribution cities, cipher decryption, and interactive architecture mindmaps (`?view=plan`).
-- **Tech Stack:** ![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat-square&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel_Edge-000000?style=flat-square&logo=vercel&logoColor=white) ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>🔵 <kbd>PID:1156</kbd> Real-Time AI Fact-Checking Extension & Ground-Truth Verifier</b></summary>
+<summary><b>🟣 <code>[EXEC 02] $ ./inspect-daemon.sh --target="Vault & BitSwarm (Two-Stage Hybrid RAG)"</code></b></summary>
 <br/>
 
-- **Architecture:** Browser-native claim verification pipeline that captures live DOM payloads and cross-examines statements against vector-indexed ground truth via Django, LangChain, and ChromaDB.
-- **Tech Stack:** `JavaScript` · `Django` · `LangChain` · `Chroma VectorDB` · `REST APIs`
+> **System Spec:** Autonomous multi-agent knowledge system utilizing **two-stage Retrieval-Augmented Generation (RAG)**, hybrid dense + sparse vector search (`FAISS` / `ChromaDB`), and dynamic model routing between **Groq** and **Gemini** for sub-second inference.
+
+```mermaid
+flowchart LR
+    Query(["User Query"]) --> Router{"Dynamic Latency Router"}
+    Router -->|"Sub-100ms LPU"| Groq["Groq LLM Engine"]
+    Router -->|"Deep Reasoning"| Gemini["Gemini Pro Engine"]
+    Query --> Stage1["Stage 1: Hybrid Vector Search (FAISS + Chroma)"]
+    Stage1 --> Stage2["Stage 2: Cross-Encoder Reranking"]
+    Stage2 --> Groq
+    Stage2 --> Gemini
+    Groq --> Output(["Zero-Hallucination Response"])
+    Gemini --> Output
+```
 
 </details>
 
 <details>
-<summary><b>🟠 <kbd>PID:1200</kbd> <code>/opt/additional-shipped-systems</code> (Grievance Redressal, GAN Engine, PyGitLoc)</b></summary>
+<summary><b>🧠 <code>[EXEC 03] $ ./render-mindmap.sh --config="/etc/sriyansh.conf"</code></b></summary>
 <br/>
 
-| System Binary | Architectural Scope | Stack |
-| :--- | :--- | :--- |
-| **`ai-grievance-redressal.bin`** | End-to-end Web & Android platform utilizing structured REST contracts and automated server-side ticket routing. | `TypeScript` `Python` `Android` |
-| **`gan-image-restoration.bin`** | Deep convolutional Generative Adversarial Network trained for real-time image colorization and restoration. | `PyTorch` `TensorFlow` `Streamlit` |
-| **`pygitloc & nlp-parser.bin`** | Open-source Git telemetry package and automated end-to-end NLP resume entity extraction pipeline. | `Python` `Scikit-Learn` `Pandas` |
+```mermaid
+mindmap
+  root((sriyansh.dev))
+    Agentic AI & LLMs
+      Custom MCP Servers
+      Two-Stage RAG Pipelines
+      Dynamic Model Routing
+      LLM Security Guardrails
+    Low-Latency Backends
+      Java & Spring Boot
+      Python Django & FastAPI
+      Redis Caching & PubSub
+      WebSockets Real-Time
+    Systems & Core CS
+      Data Structures & Algorithms
+      Distributed System Design
+      Arch Linux & Shell Automation
+      Vector & SQL Databases
+```
+
+</details>
+
+<details>
+<summary><b>🎮 <code>[EXEC 04] $ ./recruiter-ctf.sh --interactive-mode</code> (Playable Terminal Decision Tree)</b></summary>
+<br/>
+
+```bash
+arch@sriyansh:~$ ./recruiter-ctf.sh
+[SYSTEM] Welcome to the sriyansh.dev interactive shell.
+[PROMPT] Select a command to execute:
+```
+
+<details>
+<summary>👉 <b>Command 1:</b> <code>cat /dev/generic_template_portfolio.txt</code></summary>
+<br/>
+
+```diff
+- [ERROR 404]: File not found.
+- Policy enforced: "No fluff, no filler text, and no bloated code."
+! Try Command 2 or Command 3 instead.
+```
+</details>
+
+<details>
+<summary>👉 <b>Command 2:</b> <code>ssh root@sriyansh.vercel.app --run="know-me.sh"</code></summary>
+<br/>
+
+```diff
++ [SESSION ESTABLISHED]: Connected to Groq LPU conversational agent.
++ Launch live interactive shell: [https://sriyansh.vercel.app/?view=know-me](https://sriyansh.vercel.app/?view=know-me)
+```
+</details>
+
+<details>
+<summary>👉 <b>Command 3:</b> <code>sudo pacman -S sriyansh-engineer --deploy-to-production</code></summary>
+<br/>
+
+```diff
++ [DEPENDENCY CHECK PASSED]: Python, Java, Spring Boot, Django, MCP, RAG, Docker, AWS, Redis.
++ Ready for immediate deployment in Backend, Full-Stack, and Agentic AI Engineering roles.
+```
+👉 **[Connect on LinkedIn](https://linkedin.com/in/sriyanshraj)** · **[Explore Live Terminal OS](https://sriyansh.vercel.app)**
+</details>
 
 </details>
 
 ---
 
-### `┏━( arch@sriyansh : ~/packages )━[ pacman -Qe --visual-arsenal ]`
+## `┏━( arch@sriyansh : ~/deployments )━[ ls -la ~/flagship-systems ]`
 
 <div align="center">
 
-<table width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <b>⚡ LANGUAGES & CORE RUNTIME</b><br/><br/>
-      <a href="https://sriyansh.vercel.app">
-        <img src="https://skillicons.dev/icons?i=py,java,ts,js,cpp,postgres&theme=dark&perline=3" alt="Languages" />
-      </a>
-    </td>
-    <td align="center" width="34%">
-      <b>🧠 AI, DEEP LEARNING & OS</b><br/><br/>
-      <a href="https://sriyansh.vercel.app/?view=plan">
-        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,fastapi,docker,arch&theme=dark&perline=3" alt="AI Stack" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <b>🛡️ BACKEND, CACHE & CLOUD</b><br/><br/>
-      <a href="https://sriyansh.vercel.app">
-        <img src="https://skillicons.dev/icons?i=spring,django,redis,mysql,aws,git&theme=dark&perline=3" alt="Backend Stack" />
-      </a>
-    </td>
-  </tr>
-</table>
+| System Daemon | Architecture & Engineering Scope | Tech Stack |
+| :--- | :--- | :--- |
+| 🔴 **[S.A.G.E. (AI Code Reviewer)](https://github.com/sriyansh-dev/S.A.G.E)** | Open-source agentic code-review engine with a custom **Model Context Protocol (MCP)** server and Gemini/RAG pipeline that detects bugs, security flaws, and automates optimization. | `Python` `MCP` `Gemini` `RAG` `MERN` |
+| 🟣 **[Vault & BitSwarm RAG](https://sriyansh.vercel.app)** | Autonomous agentic knowledge engine featuring **two-stage RAG**, hybrid vector search (`FAISS`/`Chroma`), and dynamic model routing (`Groq`/`Gemini`). | `Python` `LangChain` `FAISS` `Groq` |
+| 🟢 **[Arch Terminal OS (`know-me.sh`)](https://sriyansh.vercel.app/?view=know-me)** | Zero-framework OLED space terminal featuring a live first-person Groq AI shell, 3D isometric contribution cities, and real-time telemetry. | `Vanilla JS` `HTML5` `CSS3` `Python` |
+| 🔵 **AI Fact-Checking Extension** | Browser-native verification pipeline that captures live web claims and cross-examines them against vector-indexed ground truth. | `JavaScript` `Django` `LangChain` `Chroma` |
+| 🟡 **AI Grievance Redressal** | End-to-end Web & Android platform utilizing structured REST contracts and automated server-side ticket routing. | `TypeScript` `Python` `Android` |
+| 🟠 **GAN Colorization & NLP Parser** | Trained Deep GAN for image restoration (`Streamlit`) + end-to-end NLP resume entity extraction pipeline. | `PyTorch` `TensorFlow` `Scikit-learn` |
 
-<img src="https://img.shields.io/badge/CUSTOM_MCP_SERVERS-1793D1?style=for-the-badge&logo=linux&logoColor=white&labelColor=080b10" />
-<img src="https://img.shields.io/badge/TWO--STAGE_HYBRID_RAG-00E676?style=for-the-badge&logo=databricks&logoColor=black&labelColor=080b10" />
-<img src="https://img.shields.io/badge/GROQ_LPU_INFERENCE-F55036?style=for-the-badge&logo=lightning&logoColor=white&labelColor=080b10" />
-<img src="https://img.shields.io/badge/LANGCHAIN_ORCHESTRATION-1793D1?style=for-the-badge&logo=langchain&logoColor=white&labelColor=080b10" />
-<img src="https://img.shields.io/badge/FAISS_%26_CHROMADB-A855F7?style=for-the-badge&logo=buffer&logoColor=white&labelColor=080b10" />
+</div>
+
+<br/>
+
+<div width="100%" align="center">
+  <a href="https://github.com/sriyansh-dev/S.A.G.E">
+    <img align="center" alt="S.A.G.E" src="https://github-readme-stats-ranit.vercel.app/api/pin?username=sriyansh-dev&repo=S.A.G.E&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=1793d1&icon_color=00e676&hide_border=true&show_owner=true&description_lines_count=2" />
+  </a>
+  <a href="https://github.com/sriyansh-dev/ai-interview-prep-engine">
+    <img align="center" alt="ai-interview-prep-engine" src="https://github-readme-stats-ranit.vercel.app/api/pin?username=sriyansh-dev&repo=ai-interview-prep-engine&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=1793d1&icon_color=00e676&hide_border=true&show_owner=true&description_lines_count=2" />
+  </a>
+</div>
+
+---
+
+## `┏━( arch@sriyansh : ~/packages )━[ pacman -Qe --tech-arsenal ]`
+
+<div align="center">
+
+<a href="https://sriyansh.vercel.app">
+  <img src="https://skillicons.dev/icons?i=py,java,ts,js,cpp,spring,django,fastapi,nodejs,react&theme=dark&perline=10" alt="Core Languages & Frameworks" />
+</a>
+<br/><br/>
+<a href="https://sriyansh.vercel.app/?view=plan">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,redis,mysql,postgres,docker,aws,arch,linux,git&theme=dark&perline=10" alt="AI, Databases & Cloud Infra" />
+</a>
+
+<br/><br/>
+
+![MCP](https://img.shields.io/badge/Custom_MCP_Servers-1793D1?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117)
+![RAG](https://img.shields.io/badge/Two--Stage_Hybrid_RAG-00E676?style=for-the-badge&logo=databricks&logoColor=black&labelColor=0d1117)
+![LangChain](https://img.shields.io/badge/LangChain-1793D1?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0d1117)
+![ChromaDB](https://img.shields.io/badge/FAISS_%26_ChromaDB-6E56CF?style=for-the-badge&logoColor=white&labelColor=0d1117)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0d1117)
 
 </div>
 
 ---
 
-### `┏━( arch@sriyansh : ~/var/log )━[ journalctl -u career-and-audits.service ]`
+## `┏━( arch@sriyansh : ~/var/log )━[ journalctl -u experience-and-audits.service ]`
 
 ```diff
 + [SHIPPED] Generative AI Intern :: Prabandhan & EiSystems Technologies
   ↳ Engineered production LLM workflows, adversarial prompt guardrails, and low-latency RAG pipelines.
 
 + [SHIPPED] AI & ML Engineering Intern :: Codomax Digital Solutions
-  ↳ Optimized high-throughput ML inference pipelines, vector indexing, and backend API integrations.
+  ↳ Optimized high-throughput ML inference services, data pipelines, and backend API integrations.
 
 + [PUBLISHED] Open-Source Author :: PyGitLoc & Automated ATS-Checker
-  ↳ Built and shipped developer CLI telemetry packages and NLP document parsing engines.
+  ↳ Built and released developer CLI telemetry tools and NLP document parsing pipelines.
 
 ! [VERIFIED SECURITY & ENGINEERING CREDENTIALS]
   ├─ Certified LLM Security Professional (Adversarial Robustness & Guardrails)
   ├─ Google AI Essentials & Generative AI Architecture
-  ├─ Deloitte Data Analytics & Distributed Systems Simulation
+  ├─ Deloitte Data Analytics & Systems Simulation (Forage)
   ├─ Big Data & Data Science Engineering Bootcamp (C-DAC)
-  └─ Advanced C++ Systems Programming
+  └─ Advanced C++ Systems Training
 ```
 
 ---
 
-### `┏━( arch@sriyansh : ~/telemetry )━[ btop --utf-force --theme=arch-oled ]`
+## `┏━( arch@sriyansh : ~/telemetry )━[ btop --utf-force --theme=arch-oled ]`
 
 <div align="center">
 
-<!-- ROW 1: STATS & STREAK (LINKED TO LIVE 3D PORTFOLIO TELEMETRY) -->
 <a href="https://sriyansh.vercel.app/?post=this-counts">
-  <img height="175em" src="https://github-readme-stats-ranit.vercel.app/api?username=sriyansh-dev&show_icons=true&bg_color=080b10&title_color=1793d1&text_color=e6edf3&icon_color=00e676&border_color=1f2937&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-ranit.vercel.app/api?username=sriyansh-dev&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=1793d1&text_color=c9d1d9&icon_color=00e676&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </a>
 <a href="https://sriyansh.vercel.app/?post=the-scoreboard">
-  <img height="175em" src="https://streak-stats.demolab.com/?user=sriyansh-dev&background=080B10&border=1F2937&ring=1793D1&fire=00E676&currStreakLabel=1793D1&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=sriyansh-dev&theme=tokyonight&background=0D1117&ring=1793D1&fire=00E676&currStreakLabel=1793D1&hide_border=true" alt="Streak Stats" />
 </a>
 
-<!-- ROW 2: TOP LANGS & ACTIVITY GRAPH -->
+<br/>
+
 <a href="https://github.com/sriyansh-dev">
-  <img height="165em" src="https://github-readme-stats-ranit.vercel.app/api/top-langs?username=sriyansh-dev&layout=compact&bg_color=080b10&title_color=1793d1&text_color=e6edf3&border_color=1f2937&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-ranit.vercel.app/api/top-langs?username=sriyansh-dev&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=1793d1&text_color=c9d1d9&hide_border=true&langs_count=10" alt="Top Languages" />
 </a>
 <a href="https://sriyansh.vercel.app/?post=this-counts">
-  <img height="165em" src="https://github-readme-activity-graph.vercel.app/graph?username=sriyansh-dev&bg_color=080b10&color=1793d1&line=00e676&point=ffffff&area=true&border_color=1f2937" alt="Activity Graph" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sriyansh-dev&theme=react-dark&bg_color=0d1117&color=1793d1&line=00e676&point=ffffff&hide_border=true&area=true" alt="Activity Graph" />
 </a>
 
 <br/><br/>
 
-<!-- ROW 3: TROPHIES -->
 <a href="https://github.com/sriyansh-dev">
-  <img width="100%" src="https://github-profile-trophy-ranit.vercel.app/?username=sriyansh-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
+  <img width="100%" src="https://github-profile-trophy-ranit.vercel.app/?username=sriyansh-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" alt="GitHub Trophies" />
 </a>
 
-<!-- ROW 4: CONTRIBUTION SNAKE -->
+<br/>
+
 <img width="100%" src="https://raw.githubusercontent.com/sriyansh-dev/sriyansh-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 </div>
@@ -297,13 +323,13 @@ live_shell: "[https://sriyansh.vercel.app/?view=know-me](https://sriyansh.vercel
 <div align="center">
 
 ```bash
-arch@sriyansh:~$ echo "Cut the noise. Let's architect something fast, deterministic, and scalable."
+arch@sriyansh:~$ echo "No fluff, no filler text, and no bloated code."
 ```
 
-<kbd><a href="https://sriyansh.vercel.app">🚀 <b>LAUNCH TERMINAL OS (sriyansh.vercel.app)</b></a></kbd> · 
-<kbd><a href="https://sriyansh.vercel.app/?view=know-me">🐚 <b>INTERACTIVE AI SHELL (know-me.sh)</b></a></kbd> · 
+<kbd><a href="https://sriyansh.vercel.app">🚀 <b>LAUNCH LIVE TERMINAL PORTFOLIO (sriyansh.vercel.app)</b></a></kbd> · 
+<kbd><a href="https://sriyansh.vercel.app/?view=know-me">🐚 <b>CHAT WITH MY AI (know-me.sh)</b></a></kbd> · 
 <kbd><a href="https://linkedin.com/in/sriyanshraj">💼 <b>CONNECT ON LINKEDIN</b></a></kbd>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1793d1,55:0d1117,100:05080d&height=85&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0d1117&height=85&section=footer&stroke=1793d1&strokeWidth=1" width="100%" alt="Footer" />
 
 </div>
