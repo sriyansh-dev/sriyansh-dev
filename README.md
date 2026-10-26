@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- ========================================================================================= -->
-<!-- 1. ARCH LINUX OLED HEADER & TERMINAL BOOT SEQUENCE (100% VERIFIED URL PARAMETERS)         -->
-<!-- ========================================================================================= -->
 <a href="https://sriyansh.vercel.app">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0d1117&height=190&section=header&text=sriyansh.dev&fontSize=56&fontColor=1793d1&fontAlignY=38&desc=ARCH%20LINUX%20x86_64%20%E2%80%A2%20AGENTIC%20AI%20%26%20LOW-LATENCY%20BACKEND%20SYSTEMS&descSize=14&descColor=00e676&descAlignY=65&animation=fadeIn&stroke=1793d1&strokeWidth=1" width="100%" alt="sriyansh.dev" />
 </a>
